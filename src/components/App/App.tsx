@@ -1,5 +1,5 @@
 import { FC } from "react";
-import Board from "../Board/Board";
+import Board from "../Board/Board4";
 import style from "./App.module.scss";
 
 const App: FC = () => {

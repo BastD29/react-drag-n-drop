@@ -1,6 +1,6 @@
-type ItemType = {
-  id: string;
-  text: string;
-};
+// type ItemType = {
+//   id: string;
+//   text: string;
+// };
 
-export type { ItemType };
+// export type { ItemType };
